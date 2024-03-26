@@ -1,12 +1,10 @@
-
-
 This app is based on:
 
 1.react-router-dom
 2.react-redux
 3.tailwindcss
 
-
+This  application has created by me with the help of the Udemy-Course (Jonas Schmedtmann)
 
 In this application you can register with one name.After you redirect to one page that has all the variety of pizzas. There is one cart where you add the pizzas that you want to order.
 If you want to order the pizzas you give some inforamtion such as first name,phone number,address and the app you inform you of the time that you are going to take the pizza.
